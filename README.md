@@ -21,5 +21,6 @@
   <a href = "mailto:giovanapgomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovana-pedrosa-lins-gomes-732006282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
+  ![ezgif com-resize](https://github.com/GiovanaPLG/GiovanaPLG/assets/151067511/36798ae1-4394-49f2-a1b5-64f359001c67)
+
 </div>
