@@ -1,4 +1,4 @@
-## Oi, eu sou a Giovana!
+## Hi, I'm Giovana!
 
 
 <div align="center">
